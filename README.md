@@ -1,4 +1,7 @@
 ### 🌱 I’m currently learning Data-Driven Control
+💬 Ask me about ...
+
+Olá, sou o Gabriel
 
 <!--
 **gabrielclwq/gabrielclwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
