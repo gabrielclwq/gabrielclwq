@@ -1,7 +1,11 @@
-### 🌱 I’m currently learning Data-Driven Control
-💬 Ask me about ...
+### Olá, sou o Gabriel Costa Leite
 
-Olá, sou o Gabriel
+🙋‍♂️ Sou aluno de Engenharia Elétrica na Universidade Federal do Ceará. Atualmente, membro do Laboratório de Sistemas de Forças Motrizes, tendo como foco de trabalho e pesquisa Controle e Automação, além de desenvolvimento em python e matlab, visando inteligência computacional e análise de dados. Foco em aprender e aperfeiçoar conhecimentos nas áreas de desenvolvimento e programação.
+
+🎓 Atualmente, o meu foco de pesquisa é Data-Driven Control aplicado a Sistemas não lineares. Com efeito, já estive inserido em pesquisas de identificação de um sistema de tanques de nível de líquido com ANFIS, o qual produziu um artigo publicado pela 9a Conferência Internacional de Controle, Mecatrô-
+nica e Automação sediado na Universidade de Luxembourg. 
+
+👨‍💻 Entre outras experiências, fui responsável pelo desenvolvimento do site do Lamotriz (http://www.lamotriz.ufc.br/#/) 
 
 <!--
 **gabrielclwq/gabrielclwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
