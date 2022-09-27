@@ -1,4 +1,4 @@
-### Olá, sou o Gabriel Costa Leite
+### Olá, sou o Gabriel Costa
 
 🙋‍♂️ Sou aluno de Engenharia Elétrica na Universidade Federal do Ceará. Atualmente, membro do Laboratório de Sistemas de Forças Motrizes, tendo como foco de trabalho e pesquisa Controle e Automação, além de desenvolvimento em python e matlab, visando inteligência computacional e análise de dados. Foco em aprender e aperfeiçoar conhecimentos nas áreas de desenvolvimento e programação.
 
